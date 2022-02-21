@@ -5,7 +5,7 @@ import redis.clients.jedis.JedisPool;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class RedisBackedCacheIntInitialStepTest {
+public class RedisInitialStepTest {
 
     private JedisPool pool;
 
